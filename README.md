@@ -114,6 +114,43 @@
 
 ---
 
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:samiluka4536@gmail.com">
+<img src="https://img.shields.io/badge/Email-samiluka4536%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/samil-uka-53049b359/">
+<img src="https://img.shields.io/badge/LinkedIn-Samil%20Uka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SamilUka86">
+<img src="https://img.shields.io/badge/GitHub-SamilUka86-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💜 Let's Connect and Build Something Amazing Together!
+
+*"Code with purpose. Build with passion."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,50:7B2FF7,100:8A2BE2"/>
+
+</div>
 | Domain | Proficiency | Details |
 |----------|------------|----------|
 | Machine Learning | Intermediate | Model Training, Feature Engineering, Model Evaluation |
