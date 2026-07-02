@@ -104,6 +104,15 @@
 </div>
 
 ---
+---
+
+# Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamilUka86&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
