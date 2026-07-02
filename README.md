@@ -103,16 +103,6 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamilUka86&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamilUka86&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img width="70%" src="https://streak-stats.demolab.com?user=SamilUka86&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
@@ -139,7 +129,7 @@
 
 <div align="center">
 
-### 💜 Let's Connect and Build Something Amazing Together!
+### Let's Connect and Build Something Amazing Together!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=2500&duration=3500&color=A855F7&center=true&vCenter=true&width=1000&lines=Code+with+purpose.+Build+with+passion.;Transforming+ideas+into+scalable+software+solutions.;Learning,+building,+and+innovating%E2%80%94one+project+at+a+time.)](https://git.io/typing-svg)
 </div>
