@@ -85,35 +85,67 @@
 ---
 
 # AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|----------|
+| Machine Learning | Intermediate | Model Training, Feature Engineering & Model Evaluation |
+| Data Analysis | Intermediate | Data Cleaning, Data Transformation & Visualization |
+| Python | Advanced | Automation, Backend Development & AI Applications |
+| Scikit-Learn | Intermediate | Regression, Classification & Model Pipelines |
+| Pandas & NumPy | Intermediate | Data Manipulation & Numerical Computing |
+| Data Visualization | Intermediate | Matplotlib |
+| Full-Stack Development | Intermediate | Django, React, REST APIs & PostgreSQL |
+| Database Management | Intermediate | PostgreSQL, MySQL & MongoDB |
+
 ---
 
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamilUka86&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamilUka86&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamilUka86&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamilUka86&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SamilUka86&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=SamilUka86&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
----
 ---
 
 # Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamilUka86&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamilUka86&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
+# Connect
+
+- Email: samiluka4536@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samil-uka-53049b359/
+- GitHub: https://github.com/SamilUka86
+
 ---
 
-termediate | PostgreSQL, MySQL & MongoDB |
+<div align="center">
+
+### 💜 Let's Connect and Build Something Amazing Together!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=2500&duration=3500&color=A855F7&center=true&vCenter=true&width=1000&lines=Code+with+purpose.+Build+with+passion.;Transforming+ideas+into+scalable+software+solutions.;Learning,+building,+and+innovating%E2%80%94one+project+at+a+time.)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,50:7B2FF7,100:8A2BE2"/>
+
+</div>
