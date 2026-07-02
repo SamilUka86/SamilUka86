@@ -35,8 +35,6 @@
 
 - AI/ML Internships
 - Full-Stack Development Internships
-- Software Engineering Internships
-- Open Source Contributions
 - Collaborative Projects
 - Hackathons
 
