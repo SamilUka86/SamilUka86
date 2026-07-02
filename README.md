@@ -6,7 +6,7 @@
 
 ### AI/ML Engineer • Full-Stack Developer • Computer Science & Engineering Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Full-Stack+Developer;Python+Developer;Django+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Software+Solutions;Always+Learning+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Full-Stack+Developer;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+Always+Building)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/Ahmedabad-Gujarat-blueviolet?style=for-the-badge)
 ![Student](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-success?style=for-the-badge)
