@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,50:7B2FF7,100:8A2BE2&text=Samil%20Uka&fontColor=ffffff&fontSize=50&fontAlignY=40" />
-
-# Samil Uka
+<img src="Header.svg" alt="Samil Uka Animated Header" width="100%" />
 
 ### AI/ML Engineer • Full-Stack Developer • Computer Science & Engineering Student
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Full-Stack+Developer;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+Always+Building)](https://git.io/typing-svg)
+
 
 ![Location](https://img.shields.io/badge/Ahmedabad-Gujarat-blueviolet?style=for-the-badge)
 ![Student](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-success?style=for-the-badge)
@@ -134,6 +133,8 @@
 
 <div align="center">
 
+<div align="center">
+
 ### Let's Connect and Build Something Amazing Together!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=2500&duration=3500&color=A855F7&center=true&vCenter=true&width=1000&lines=Code+with+purpose.+Build+with+passion.;Transforming+ideas+into+scalable+software+solutions.;Learning,+building,+and+innovating%E2%80%94one+project+at+a+time.)](https://git.io/typing-svg)
@@ -141,6 +142,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,50:7B2FF7,100:8A2BE2"/>
+<img src="Footer.svg" alt="Animated Footer" width="100%" />
 
 </div>
