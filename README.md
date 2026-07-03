@@ -4,9 +4,6 @@
 
 ### AI/ML Engineer • Full-Stack Developer • Computer Science & Engineering Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Full-Stack+Developer;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+Always+Building)](https://git.io/typing-svg)
-
-
 ![Location](https://img.shields.io/badge/Ahmedabad-Gujarat-blueviolet?style=for-the-badge)
 ![Student](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-success?style=for-the-badge)
 ![Graduation](https://img.shields.io/badge/Graduation-2028-purple?style=for-the-badge)
@@ -137,7 +134,6 @@
 
 ### Let's Connect and Build Something Amazing Together!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=2500&duration=3500&color=A855F7&center=true&vCenter=true&width=1000&lines=Code+with+purpose.+Build+with+passion.;Transforming+ideas+into+scalable+software+solutions.;Learning,+building,+and+innovating%E2%80%94one+project+at+a+time.)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
