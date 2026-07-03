@@ -110,10 +110,25 @@
     <td width="50%" valign="top">
       <h3 align="center">🚗 Car Rental System</h3>
       <p align="center">A robust, data-driven backend application utilizing <b>Python</b>, <b>PostgreSQL</b>, <b>Streamlit</b>, and <b>Matplotlib</b> for deep data management.</p>
+      
+  <!-- Source Code Button Section -->
+  <div align="center">
+        <p><b>Source Code</b></p>
+        <a href="https://github.com/SamilUka86/Car-Rental">
+          <img src="https://img.shields.io/badge/Car%20Rental-GitHub-black?style=for-the-badge&logo=github" alt="Car Rental Source Code">
+        </a>
+      </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚘 Car Fusion</h3>
       <p align="center">A high-performance frontend project built purely with <b>HTML, CSS, JavaScript,</b> and <b>Bootstrap 5</b> for responsive UI/UX.</p>
+      <!-- Source Code Button Section -->
+      <div align="center">
+        <p><b>Source Code</b></p>
+        <a href="https://github.com/SamilUka86/Car_Fusion">
+          <img src="https://img.shields.io/badge/Car%20Fusion-GitHub-black?style=for-the-badge&logo=github" alt="Car Fusion Source Code">
+        </a>
+      </div>
     </td>
   </tr>
 </table>
