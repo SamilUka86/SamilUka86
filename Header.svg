@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="250">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4B0082" />
+      <stop offset="50%" stop-color="#7B2FF7" />
+      <stop offset="100%" stop-color="#8A2BE2" />
+    </linearGradient>
+    
+    <!-- Animations and Styling -->
+    <style>
+      .title {
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 50px;
+        font-weight: 700;
+        fill: #ffffff;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      .subtitle {
+        font-family: 'Courier New', monospace;
+        font-size: 22px;
+        font-weight: bold;
+        fill: #E9D5FF;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        opacity: 0;
+        animation: textCycle 15s infinite;
+      }
+      .icon {
+        font-family: Arial, sans-serif;
+        font-size: 32px;
+        animation: fall linear infinite;
+        opacity: 0;
+      }
+      
+      /* Falling Animation */
+      @keyframes fall {
+        0% { transform: translateY(-20px); opacity: 0; }
+        10% { opacity: 0.8; }
+        90% { opacity: 0.8; }
+        100% { transform: translateY(270px); opacity: 0; }
+      }
+
+      /* Looping Text Animation */
+      @keyframes textCycle {
+        0%, 16% { opacity: 1; transform: translateY(0); }
+        20%, 100% { opacity: 0; transform: translateY(5px); }
+      }
+      
+      /* Individual drop speeds and delays */
+      .d1 { animation-duration: 2.0s; animation-delay: 0.1s; }
+      .d2 { animation-duration: 1.5s; animation-delay: 0.5s; }
+      .d3 { animation-duration: 2.2s; animation-delay: 0.2s; }
+      .d4 { animation-duration: 1.7s; animation-delay: 0.8s; }
+      .d5 { animation-duration: 2.1s; animation-delay: 0.4s; }
+      .d6 { animation-duration: 1.6s; animation-delay: 0.9s; }
+      .d7 { animation-duration: 1.9s; animation-delay: 0.6s; }
+      .d8 { animation-duration: 2.3s; animation-delay: 0.3s; }
+      .d9 { animation-duration: 1.4s; animation-delay: 0.7s; }
+
+      /* Subtitle display timings */
+      .s1 { animation-delay: 0s; }
+      .s2 { animation-delay: 3s; }
+      .s3 { animation-delay: 6s; }
+      .s4 { animation-delay: 9s; }
+      .s5 { animation-delay: 12s; }
+    </style>
+  </defs>
+
+  <!-- Flat Rectangular Background -->
+  <rect width="100%" height="100%" fill="url(#bg)" />
+
+  <!-- Falling Tech Stack Icons -->
+  <g>
+    <text x="8%" y="-10" class="icon d1">🐍</text>
+    <text x="18%" y="-10" class="icon d2">☕</text>
+    <text x="28%" y="-10" class="icon d3">⚛️</text>
+    <text x="38%" y="-10" class="icon d4">🐘</text>
+    <text x="48%" y="-10" class="icon d5">🍃</text>
+    <text x="60%" y="-10" class="icon d6">🌐</text>
+    <text x="72%" y="-10" class="icon d7">🗄️</text>
+    <text x="82%" y="-10" class="icon d8">⚙️</text>
+    <text x="92%" y="-10" class="icon d9">💻</text>
+  </g>
+
+  <!-- Title Text -->
+  <text x="400" y="105" class="title">Samil Uka</text>
+
+  <!-- Looping Subtitles -->
+  <g>
+    <text x="400" y="155" class="subtitle s1">AI/ML Engineer</text>
+    <text x="400" y="155" class="subtitle s2">Full-Stack Developer</text>
+    <text x="400" y="155" class="subtitle s3">Python Developer</text>
+    <text x="400" y="155" class="subtitle s4">Machine Learning Enthusiast</text>
+    <text x="400" y="155" class="subtitle s5">Always Learning Always Building</text>
+  </g>
+</svg>
