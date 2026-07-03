@@ -107,13 +107,20 @@
 
 ---
 
-# Contribution Activity
+### 🚀 Featured Engineering Projects
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamilUka86&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Car Rental System</h3>
+      <p align="center">A robust, data-driven backend application utilizing <b>Python</b>, <b>PostgreSQL</b>, <b>Streamlit</b>, and <b>Matplotlib</b> for deep data management.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚘 Car Fusion</h3>
+      <p align="center">A high-performance frontend project built purely with <b>HTML, CSS, JavaScript,</b> and <b>Bootstrap 5</b> for responsive UI/UX.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
