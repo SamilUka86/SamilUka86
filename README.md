@@ -108,17 +108,29 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🍔 Food Ordering System</h3>
+      <p align="center">A complete console-based food ordering & restaurant management system built with <b>Java (JDBC)</b> and <b>MySQL</b> database for customer and owner operations.</p>
+      <!-- Source Code Button Section -->
+      <div align="center">
+        <p><b>Source Code</b></p>
+        <a href="https://github.com/SamilUka86/FoodOrderingSystem">
+          <img src="https://img.shields.io/badge/Food%20Ordering%20System-GitHub-black?style=for-the-badge&logo=github" alt="Food Ordering System Source Code">
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🚗 Car Rental System</h3>
       <p align="center">A robust, data-driven backend application utilizing <b>Python</b>, <b>PostgreSQL</b>, <b>Streamlit</b>, and <b>Matplotlib</b> for deep data management.</p>
-      
-  <!-- Source Code Button Section -->
-  <div align="center">
+      <!-- Source Code Button Section -->
+      <div align="center">
         <p><b>Source Code</b></p>
         <a href="https://github.com/SamilUka86/Car-Rental">
           <img src="https://img.shields.io/badge/Car%20Rental-GitHub-black?style=for-the-badge&logo=github" alt="Car Rental Source Code">
         </a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚘 Car Fusion</h3>
       <p align="center">A high-performance frontend project built purely with <b>HTML, CSS, JavaScript,</b> and <b>Bootstrap 5</b> for responsive UI/UX.</p>
@@ -130,20 +142,16 @@
         </a>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏠 Verixa</h3>
       <p align="center">An intelligent Property Decision & Verification Platform utilizing <b>React</b>, <b>Django</b>, <b>PostgreSQL</b>, <b>Scikit-Learn</b>, <b>Tesseract OCR</b>, and <b>Leaflet GIS</b> for real estate analytics.</p>
       <!-- Source Code Button Section -->
       <div align="center">
         <p><b>Source Code</b></p>
-        <a href="https://github.com/Zaidmemon5412/Verixa">
+        <a href="https://github.com/SamilUka86/Verixa">
           <img src="https://img.shields.io/badge/Verixa-GitHub-black?style=for-the-badge&logo=github" alt="Verixa Source Code">
         </a>
       </div>
-    </td>
-    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
