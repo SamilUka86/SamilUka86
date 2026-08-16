@@ -126,9 +126,24 @@
       <div align="center">
         <p><b>Source Code</b></p>
         <a href="https://github.com/SamilUka86/Car_Fusion">
-          <img src="https://img.shields.io/badge/Car%20Fusion-GitHub-black?style=for-the-badge&logo=github" alt="Car Fusion Source Code">
+          <img src="https://img.shields.io/badge/Car_Fusion-GitHub-black?style=for-the-badge&logo=github" alt="Car Fusion Source Code">
         </a>
       </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 Verixa</h3>
+      <p align="center">An intelligent Property Decision & Verification Platform utilizing <b>React</b>, <b>Django</b>, <b>PostgreSQL</b>, <b>Scikit-Learn</b>, <b>Tesseract OCR</b>, and <b>Leaflet GIS</b> for real estate analytics.</p>
+      <!-- Source Code Button Section -->
+      <div align="center">
+        <p><b>Source Code</b></p>
+        <a href="https://github.com/Zaidmemon5412/Verixa">
+          <img src="https://img.shields.io/badge/Verixa-GitHub-black?style=for-the-badge&logo=github" alt="Verixa Source Code">
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
