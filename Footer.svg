@@ -7,7 +7,7 @@
       <stop offset="50%" stop-color="#7B2FF7" />
       <stop offset="100%" stop-color="#4B0082" />
     </linearGradient>
-    
+
     <!-- Animations and Styling -->
     <style>
       .subtitle {
