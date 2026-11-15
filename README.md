@@ -166,7 +166,16 @@
         </a>
       </div>
     </td>
-    <td width="50%" valign="top">
+        <td width="50%" valign="top">
+      <h3 align="center">🏋️‍♂️ PlateSync</h3>
+      <p align="center">A smart Barbell Loading & Workout Analytics Progressive Web App (PWA) built with <b>React</b>, <b>Vite</b>, <b>Tailwind CSS</b>, and <b>Firebase</b> featuring real-time plate visualization, 7-day planning, and bilingual support.</p>
+      <!-- Source Code Button Section -->
+      <div align="center">
+        <p><b>Source Code</b></p>
+        <a href="https://github.com/SamilUka86/PlateSync">
+          <img src="https://img.shields.io/badge/PlateSync-GitHub-black?style=for-the-badge&logo=github" alt="PlateSync Source Code">
+        </a>
+      </div>
     </td>
   </tr>
 </table>
